@@ -1,3 +1,0 @@
-OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCost,PerSquareFoot,MaterialCost,LaborCost,Tax,Total
-1::Ameriprise::OH::0.0625::Laminate::30::1.75::2.10::52.50::63.00::7.218750::122.718750::05/02/2018
-2::Mongo::PA::0.0675::Wood::25::5.15::4.75::128.75::118.75::16.71::264.21::05/02/2018
