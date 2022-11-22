@@ -1,2 +1,0 @@
-OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCost,PerSquareFoot,MaterialCost,LaborCost,Tax,Total
-1::Dog::null::0::Wood::25::5.15::4.75::128.75::118.75::0.00::247.50::05/05/2018
