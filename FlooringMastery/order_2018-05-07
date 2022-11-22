@@ -1,4 +1,0 @@
-OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCost,PerSquareFoot,MaterialCost,LaborCost,Tax,Total
-1::MongoDB::IN::0.06::Tile::20::3.50::4.15::70.00::83.00::9.18::162.18::05/07/2018
-3::Apple::MI::0.0575::Tile::10::3.50::4.15::35.00::41.50::4.40::80.90::05/07/2018
-4::Genesis10::OH::0.0625::Wood::25::5.15::4.75::128.75::118.75::15.47::262.97::05/07/2018
