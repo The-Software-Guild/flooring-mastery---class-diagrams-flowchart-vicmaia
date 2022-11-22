@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCost,PerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1::Doctor Who::WA::9.25::Wood::243::5.15::4.75::1251.45::1154.25::22252.73::24658.43::11/22/2022
+2::Albert Einstein::KY::6.00::Carpet::217::2.25::2.10::488.25::455.70::5663.70::6607.65::11/22/2022

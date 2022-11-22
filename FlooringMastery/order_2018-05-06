@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCost,PerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1::Greg::IN::0.06::Carpet::25::2.25::2.10::56.25::52.50::6.53::115.28::05/06/2018

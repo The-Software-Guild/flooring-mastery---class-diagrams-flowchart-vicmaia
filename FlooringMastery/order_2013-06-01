@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCost,PerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1::Ada Lovelace::CA::25.00::Tile::249::3.50::4.15::871.50::1033.35::47621.25::49526.10::06/01/2013
